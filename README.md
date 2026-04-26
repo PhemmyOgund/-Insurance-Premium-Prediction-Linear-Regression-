@@ -39,3 +39,6 @@ Example:
 
 Input: Age = 30, BMI = 26, Smoker = Yes
 Predicted Premium: ~$27,365
+Conclusion
+
+This project demonstrates how machine learning can be used to predict insurance costs and uncover key cost drivers, providing valuable insights for both businesses and customers.
